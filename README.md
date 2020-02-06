@@ -5,7 +5,7 @@
 `date`함수를 사용하여 현재 시간 리턴
 
 `greeting.js`   
--처음 지정된 `form`에 `text`를 입력하여 `local storage`에 `currentUser`의 정보를 생성  
+-처음 지정된 `form`에 `text`를 입력하여 `local storage`에 `currentUser`의 정보를 성  
 -받은 값을 페이지에 출력  
 
 `todo.js`  
@@ -19,4 +19,4 @@
 `openweather`의 `API`사용
 
 사진 출처:  
-www.unspalsh.com
+https://unsplash.com/
