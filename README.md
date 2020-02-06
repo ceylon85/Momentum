@@ -14,8 +14,9 @@
 `backgroud.js`  
 `img`폴더에 저장한 10개의 파일을 `random` 함수를 사용하여 `background` 로 리턴  
 
-``:  
--날씨 API 사용
+`weather.js`  
+`user`의 `location`좌표 정보를 읽어서 그 정보를 저장(이미 저장한 값이 있다면 요청)  
+`openweather`의 `API`사용
 
 사진 출처:  
 www.unspalsh.com
