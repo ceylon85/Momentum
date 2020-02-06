@@ -12,7 +12,7 @@
 `input form`에 `toDoList`를 입력하여 `CRD` 
 
 `backgroud.js`:  
-`img`폴더에 저장한 10개의 파일을 `random` 함수를 사용하여 리턴  
+`img`폴더에 저장한 10개의 파일을 `random` 함수를 사용하여 `background` 로 리턴  
 
 ``:  
 -날씨 API 사용
