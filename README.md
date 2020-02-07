@@ -19,4 +19,7 @@
 `openweather`의 `API`사용
 
 사진 출처:  
-https://unsplash.com/
+https://unsplash.com/  
+
+###예시화면  
+
