@@ -18,8 +18,7 @@
 `user`의 `location`좌표 정보를 읽어서 그 정보를 저장(이미 저장한 값이 있다면 요청)  
 `openweather`의 `API`사용
 
-#### 사진 출처:  
-https://unsplash.com/  
+사진 출처: https://unsplash.com/  
 
 ### 예시화면  
 ![todolist](https://user-images.githubusercontent.com/45006553/74011736-e2c56f00-49cb-11ea-96be-cdb78375fbd8.gif)
