@@ -4,14 +4,14 @@ const CODES = "coords";
 const API_KEY = "8eb7c766c2a456a590cf65c1b9380ff0"; //openweather의 API
 
 function getWeather(lat, lon) {
-    fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${API_KEY}&units=metric`)
-    .then(function (response) {
-        return response.json();
-    })
+    fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${API_KEY}&units=metric`) //&units=metric 미터법: 화씨를 섭씨로
+        .then(function (response) {
+            return response.json();
+        })
         .then(function (json) {
             const temperature = json.main.temp;
             const place = json.name;
-            weather.innerText = `${temperature} @ ${place}`
+            weather.innerText = `${temperature}°C @ ${place}`
         });
 }
 
