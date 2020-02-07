@@ -1,4 +1,4 @@
-# Momentum
+# Momentum_copy
 
 ### Todo List
 `clock.js`  
@@ -22,4 +22,4 @@
 https://unsplash.com/  
 
 ###예시화면  
-
+![todolist](https://user-images.githubusercontent.com/45006553/74011736-e2c56f00-49cb-11ea-96be-cdb78375fbd8.gif)
